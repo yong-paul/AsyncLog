@@ -1,0 +1,53 @@
+[2025-05-28 16:38:39.333][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][49] Main thread started
+[2025-05-28 16:38:39.333][DEBUG][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][52] This is a debug message
+[2025-05-28 16:38:39.333][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][53] This is an info message, number: 42
+[2025-05-28 16:38:39.333][WARN][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][54] This is a warning message
+[2025-05-28 16:38:39.333][ERROR][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][55] This is an error message
+[2025-05-28 16:38:39.333][FATAL][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][56] This is a fatal message
+[2025-05-28 16:38:39.333][DEBUG][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][7] Worker 1 started in function1
+[2025-05-28 16:38:39.333][INFO][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 1 processing task 0 in function1
+[2025-05-28 16:38:39.333][DEBUG][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][7] Worker 2 started in function1
+[2025-05-28 16:38:39.333][INFO][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 2 processing task 0 in function1
+[2025-05-28 16:38:39.333][DEBUG][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][7] Worker 3 started in function1
+[2025-05-28 16:38:39.333][INFO][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 3 processing task 0 in function1
+[2025-05-28 16:38:39.334][DEBUG][PID:1448][TID:25352][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][17] Worker Alpha started in function2
+[2025-05-28 16:38:39.334][INFO][PID:1448][TID:25352][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][19] Worker Alpha processing task 0 in function2
+[2025-05-28 16:38:39.334][DEBUG][PID:1448][TID:33300][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][17] Worker Beta started in function2
+[2025-05-28 16:38:39.334][INFO][PID:1448][TID:33300][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][19] Worker Beta processing task 0 in function2
+[2025-05-28 16:38:39.334][DEBUG][PID:1448][TID:32404][data_processor][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][27] Data processor started
+[2025-05-28 16:38:39.334][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 0
+[2025-05-28 16:38:39.334][INFO][PID:1448][TID:32404][data_processor][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][30] Processing data batch 0
+[2025-05-28 16:38:39.391][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 1
+[2025-05-28 16:38:39.437][INFO][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 3 processing task 1 in function1
+[2025-05-28 16:38:39.437][INFO][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 1 processing task 1 in function1
+[2025-05-28 16:38:39.437][INFO][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 2 processing task 1 in function1
+[2025-05-28 16:38:39.452][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 2
+[2025-05-28 16:38:39.498][INFO][PID:1448][TID:33300][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][19] Worker Beta processing task 1 in function2
+[2025-05-28 16:38:39.498][INFO][PID:1448][TID:25352][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][19] Worker Alpha processing task 1 in function2
+[2025-05-28 16:38:39.513][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 3
+[2025-05-28 16:38:39.544][INFO][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 2 processing task 2 in function1
+[2025-05-28 16:38:39.544][INFO][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 1 processing task 2 in function1
+[2025-05-28 16:38:39.544][INFO][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 3 processing task 2 in function1
+[2025-05-28 16:38:39.544][INFO][PID:1448][TID:32404][data_processor][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][30] Processing data batch 1
+[2025-05-28 16:38:39.575][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 4
+[2025-05-28 16:38:39.636][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 5
+[2025-05-28 16:38:39.652][INFO][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 3 processing task 3 in function1
+[2025-05-28 16:38:39.652][INFO][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 1 processing task 3 in function1
+[2025-05-28 16:38:39.652][INFO][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 2 processing task 3 in function1
+[2025-05-28 16:38:39.652][INFO][PID:1448][TID:33300][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][19] Worker Beta processing task 2 in function2
+[2025-05-28 16:38:39.652][INFO][PID:1448][TID:25352][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][19] Worker Alpha processing task 2 in function2
+[2025-05-28 16:38:39.699][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 6
+[2025-05-28 16:38:39.759][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 7
+[2025-05-28 16:38:39.759][INFO][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 1 processing task 4 in function1
+[2025-05-28 16:38:39.759][INFO][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 2 processing task 4 in function1
+[2025-05-28 16:38:39.759][INFO][PID:1448][TID:32404][data_processor][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][30] Processing data batch 2
+[2025-05-28 16:38:39.759][INFO][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][9] Worker 3 processing task 4 in function1
+[2025-05-28 16:38:39.759][FATAL][PID:1448][TID:32404][data_processor][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][38] Data processor failed: Simulated data corruption
+[2025-05-28 16:38:39.805][ERROR][PID:1448][TID:25352][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][22] Worker Alpha encountered simulated error in function2
+[2025-05-28 16:38:39.805][ERROR][PID:1448][TID:33300][worker_function2][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][22] Worker Beta encountered simulated error in function2
+[2025-05-28 16:38:39.820][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 8
+[2025-05-28 16:38:39.865][WARN][PID:1448][TID:33516][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][12] Worker 3 completed in function1
+[2025-05-28 16:38:39.865][WARN][PID:1448][TID:31044][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][12] Worker 2 completed in function1
+[2025-05-28 16:38:39.865][WARN][PID:1448][TID:8904][worker_function1][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][12] Worker 1 completed in function1
+[2025-05-28 16:38:39.880][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][75] Main thread working on item 9
+[2025-05-28 16:38:39.942][INFO][PID:1448][TID:17632][main][d:\userdata\015773\desktop\basic_wheel\日志库\asynclog\asynclog\main.cpp][84] All worker threads completed
